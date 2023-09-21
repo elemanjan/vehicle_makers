@@ -1,6 +1,6 @@
-# test_app
+# vehicle_makers
 
-A new Flutter project.
+A mobile application with a list of vehicle manufacturers
 
 ## Getting Started
 
